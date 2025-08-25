@@ -1,5 +1,6 @@
 - Hi, I’m @K1raK1raK1lla
-- I’m interested in: Game Development, Server-side and Client-side development, Front-end Development, and learning new programming languages
-- I’m currently learning: Front-end and Back-end development
-- Social Media: @kirakirak1lla.bsky.social 
+- I’m interested in: Game Development and Optimization
+- I'm Currently Learning: Proper Game Optimization and Game Design
+- I'm Currently Working On: A Bunch of Stuff [dont worry about it :)]
+- Social Media: @kirakirak1lla.bsky.social, @KiraKiraK1lla on YouTube
 - Pronouns: She/Her
